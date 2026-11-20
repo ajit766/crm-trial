@@ -1,0 +1,8 @@
+{
+  "engine": "github-actions",
+  "endpoint": "",
+  "runners": {
+    "max_parallel": 4,
+    "workspace": "issue"
+  }
+}
